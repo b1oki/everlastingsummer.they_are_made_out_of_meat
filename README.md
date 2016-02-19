@@ -1,7 +1,8 @@
 # everlastingsummer.they_are_made_out_of_meat
 They're made out of meat mode for Everlasting Summer (Ren'Py)
 
-[Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=362886110)
+[Host Everlasting Summer game Steam page](http://store.steampowered.com/app/331470)
+[Mode Steam Workshop page](http://steamcommunity.com/sharedfiles/filedetails/?id=362886110)
 
 # Description
 "They're Made Out of Meat" is a short story by Terry Bisson. 
