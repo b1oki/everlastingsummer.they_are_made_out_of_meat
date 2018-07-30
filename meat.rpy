@@ -529,3 +529,4 @@ label meat_new_ru:
     u"Терри Биссон" "Музыка: композиция Magellan, авторство Aural Night"
     scene black with fade3
     return
+    
