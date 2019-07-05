@@ -12,3 +12,7 @@ Version 2.0
 
 
 ![meat_screenshot](https://github.com/b1oki/everlastingsummer.they_are_made_out_of_meat/blob/master/meat_screenshot.png?raw=true "hey're Made Out of Meat screenshot")
+
+# developer diaries
+
+Telegram [@VeryStrange](https://t.me/verystrange)
